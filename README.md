@@ -6,15 +6,13 @@ Environment Setup
 
 2. create a new folder for project & open in VSCode
 
-3. open cmd/terminal then execute below command(this will create package.json)
+3. open cmd/terminal then execute below command(this will create package.json)  
     npm -i init     
 
-4. to install cypress
---
+4. to install cypress  
    npm install cypress --save -dev
 
-6. start cypress
---
-   npx cypress open
-       or
+6. start cypress  
+   npx cypress open  
+       or  
    node_modules/.bin/cypress open
