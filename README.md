@@ -10,9 +10,11 @@ Environment Setup
     npm -i init     
 
 4. to install cypress
+--
    npm install cypress --save -dev
 
 6. start cypress
+--
    npx cypress open
        or
    node_modules/.bin/cypress open
